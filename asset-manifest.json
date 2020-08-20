@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NLW-02-Proffi-Web/static/css/main.a4f3da67.chunk.css",
+    "main.css": "/NLW-02-Proffi-Web/static/css/main.d0c48b10.chunk.css",
     "main.js": "/NLW-02-Proffi-Web/static/js/main.d1d285e1.chunk.js",
     "main.js.map": "/NLW-02-Proffi-Web/static/js/main.d1d285e1.chunk.js.map",
     "runtime-main.js": "/NLW-02-Proffi-Web/static/js/runtime-main.7a5f542f.js",
@@ -8,9 +8,9 @@
     "static/js/2.7e366770.chunk.js": "/NLW-02-Proffi-Web/static/js/2.7e366770.chunk.js",
     "static/js/2.7e366770.chunk.js.map": "/NLW-02-Proffi-Web/static/js/2.7e366770.chunk.js.map",
     "index.html": "/NLW-02-Proffi-Web/index.html",
-    "precache-manifest.c2262c263b706d1f38e78a1f233a70ab.js": "/NLW-02-Proffi-Web/precache-manifest.c2262c263b706d1f38e78a1f233a70ab.js",
+    "precache-manifest.93e7f6c447f9b8fbf81fe2c4f91d3e3a.js": "/NLW-02-Proffi-Web/precache-manifest.93e7f6c447f9b8fbf81fe2c4f91d3e3a.js",
     "service-worker.js": "/NLW-02-Proffi-Web/service-worker.js",
-    "static/css/main.a4f3da67.chunk.css.map": "/NLW-02-Proffi-Web/static/css/main.a4f3da67.chunk.css.map",
+    "static/css/main.d0c48b10.chunk.css.map": "/NLW-02-Proffi-Web/static/css/main.d0c48b10.chunk.css.map",
     "static/js/2.7e366770.chunk.js.LICENSE.txt": "/NLW-02-Proffi-Web/static/js/2.7e366770.chunk.js.LICENSE.txt",
     "static/media/give-classes.svg": "/NLW-02-Proffi-Web/static/media/give-classes.156102ee.svg",
     "static/media/landing.svg": "/NLW-02-Proffi-Web/static/media/landing.211f2bb0.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.7a5f542f.js",
     "static/js/2.7e366770.chunk.js",
-    "static/css/main.a4f3da67.chunk.css",
+    "static/css/main.d0c48b10.chunk.css",
     "static/js/main.d1d285e1.chunk.js"
   ]
 }

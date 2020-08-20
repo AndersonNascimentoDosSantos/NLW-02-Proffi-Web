@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce9e9c9c80de21fcda17686c2681d082",
+    "revision": "18d539edd78824709a0871dae355e3a9",
     "url": "/NLW-02-Proffi-Web/index.html"
   },
   {
-    "revision": "a19b59b0ef91f3cbd7e5",
-    "url": "/NLW-02-Proffi-Web/static/css/main.a4f3da67.chunk.css"
+    "revision": "2c75d8bca0aabea86081",
+    "url": "/NLW-02-Proffi-Web/static/css/main.d0c48b10.chunk.css"
   },
   {
     "revision": "5d8e71f51a0903809b5b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NLW-02-Proffi-Web/static/js/2.7e366770.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a19b59b0ef91f3cbd7e5",
+    "revision": "2c75d8bca0aabea86081",
     "url": "/NLW-02-Proffi-Web/static/js/main.d1d285e1.chunk.js"
   },
   {
