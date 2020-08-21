@@ -1,8 +1,8 @@
 {
   "name": "web",
   "version": "0.1.0",
-  "private": true,  
-  "homepage":"nlw-02-proffi-web.vercel.app",
+  "private": true,
+  "homepage": "https://nlw-02-proffi-web.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"   
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
